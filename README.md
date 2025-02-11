@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently contributing to [wespeaker](https://github.com/wenet-e2e/wespeaker) and [wekws](https://github.com/wenet-e2e/wekws).
+- 🔭 I’m currently contributing to [wespeaker](https://github.com/wenet-e2e/wespeaker), [wekws](https://github.com/wenet-e2e/wekws) and [wesep](https://github.com/wenet-e2e/wesep).
 - 🌱 My interests include Speaker Recognition/Diarization, Keyword Spotting, Anti-spoofing, Personalized Speech Enhancement and Speech Recognition, etc.
 
 <!--
